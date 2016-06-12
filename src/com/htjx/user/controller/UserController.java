@@ -10,7 +10,7 @@ public class UserController {
 		user.setAge(12);
 		user.setId(12);
 //		user.setName("yang006009001");
-		user.setName("why");
+		user.setName("one");
 
 		
 		System.out.println(user);
