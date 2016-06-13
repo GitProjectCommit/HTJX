@@ -8,6 +8,7 @@ public class UserController {
 		
 		User user=new User();
 		user.setAge(130);
+		user.setAge(120);
 		user.setId(100);
 		user.setName("oneHTJX");
 
