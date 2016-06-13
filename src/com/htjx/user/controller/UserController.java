@@ -8,7 +8,7 @@ public class UserController {
 		
 		User user=new User();
 		user.setAge(12);
-		user.setId(12);
+		user.setId(100);
 		user.setName("oneHTJX");
 
 		System.out.println("file");
