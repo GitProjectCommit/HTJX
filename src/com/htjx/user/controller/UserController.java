@@ -11,8 +11,8 @@ public class UserController {
 		user.setId(100);
 		user.setName("oneHTJX");
 
-		System.out.println("file");
-		System.out.println(user);
+	 
 		System.out.println("commit");
+		
 	}
 }
