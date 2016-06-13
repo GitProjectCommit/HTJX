@@ -14,6 +14,7 @@ public class UserController {
 
 	 
 		System.out.println("commit");
+		System.out.println("A1");
 		
 	}
 }
