@@ -7,7 +7,7 @@ public class UserController {
 	public static void main(String[] args) {
 		
 		User user=new User();
-		user.setAge(12);
+		user.setAge(120);
 		user.setId(100);
 		user.setName("oneHTJX");
 
